@@ -1,2 +1,2 @@
-# Java
+# Calculator
 Advanced Calculator
